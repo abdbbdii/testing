@@ -4,7 +4,7 @@ using System.Windows.Forms;
 
 public class DialogBox {
     public static void Main() {
-        MessageBox.Show("Hello, World!");
+        MessageBox.Show("This is a custom script that means your PC can be easily hacked :(");
     }
 }
 "@
